@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Oisín Ivory Assignment 2",
+"dataUrl": "Oisin-Ivory-Assignment-02.data.unityweb",
+"wasmCodeUrl": "Oisin-Ivory-Assignment-02.wasm.code.unityweb",
+"wasmFrameworkUrl": "Oisin-Ivory-Assignment-02.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
